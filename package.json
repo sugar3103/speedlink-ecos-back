@@ -22,7 +22,7 @@
     "body-parser": "^1.19.0",
     "concurrently": "^5.0.0",
     "csv-stringify": "^5.3.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.17.1",
     "stream": "0.0.2"
   },
